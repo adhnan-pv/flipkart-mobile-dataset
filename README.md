@@ -1,0 +1,4 @@
+- this dataset contain data related to the flipkart mobiles
+- the book contain:
+- data cleaning
+- data visualization
